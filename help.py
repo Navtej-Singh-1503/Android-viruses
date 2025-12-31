@@ -6,7 +6,9 @@ Educational use only
 
 12/31/2025
 
-Version - 0.0.1
+Version - 0.0.2
+
+mail - navtejsingh15032011@gmail.com
 
 '''
 
@@ -41,7 +43,7 @@ print(N_Green+r'''
                         |__/                 |___/
 '''+RESET)
 
-
+print("Mail - navtejsingh15032011@gmail.com")
 print("FOLLOW -> https://github.com/Navtej-Singh-1503/")
 time.sleep(2)
 
