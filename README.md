@@ -21,8 +21,8 @@ The goal of this repository is to:
 
 You can support me via cryptocurrency:
 
-LTC : ltc1qspfztcvax7g9caqgdmp3ex6fytrr0dlssr0r45
-URL : litecoin:LTC1QSPFZTCVAX7G9CAQGDMP3EX6FYTRR0DLSSR0R45
+- LTC : ltc1qspfztcvax7g9caqgdmp3ex6fytrr0dlssr0r45
+- URL : litecoin:LTC1QSPFZTCVAX7G9CAQGDMP3EX6FYTRR0DLSSR0R45
 
 ## Copyright
 © 2025 Navtej Singh Saggar  
