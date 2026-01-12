@@ -6,9 +6,9 @@ I am **not responsible** for any illegal, unethical, or harmful activity perform
 All responsibility lies solely with the person who chooses to misuse it.
 
 # **Requirements**
--Linux Terminal
--Python3
--This APK's will only works on Android OS
+- Linux Terminal
+- Python3
+- This APK's will only works on Android OS
 
 ## Educational Purpose
 The goal of this repository is to:
