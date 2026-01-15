@@ -153,4 +153,5 @@ elif user in ["5", "05"]:
 
 else:
     print(RED + "Invalid Tier Number!" + RESET)
+    continue
 
